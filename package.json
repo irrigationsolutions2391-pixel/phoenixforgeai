@@ -1,12 +1,12 @@
 {
   "name": "phoenixforgeai",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The official TypeScript library for the Phoenixforgeai API",
   "author": "Phoenixforgeai <>",
   "types": "dist/index.d.ts",
   "main": "dist/index.js",
   "type": "commonjs",
-  "repository": "github:stainless-sdks/phoenixforgeai-typescript",
+  "repository": "github:irrigationsolutions2391-pixel/phoenixforgeai",
   "license": "Apache-2.0",
   "packageManager": "pnpm@10.24.0",
   "files": [
